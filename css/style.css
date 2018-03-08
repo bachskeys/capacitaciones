@@ -1,0 +1,168 @@
+h4{
+
+    
+    text-align: center;
+    font-family: 'Monoton', sans-serif;
+    border-color: white;
+    color: white;
+    font-size: 40px;
+  
+    padding-right: 400px;
+   
+    padding-left: 80px;
+
+  }
+  h3{
+
+   font-family: 'Anton', sans-serif;
+   color: black;
+
+  }
+  body{
+
+
+    background-color: black;
+   
+    
+
+  }
+  nav {
+    height: 100px;
+    line-height: 100px;
+}
+
+  .background-black{
+
+
+  background-color: black;
+
+  }
+  .search-border{
+
+
+
+    border: 2px  white;
+      border-radius: 5px;
+  }
+  /* Style the header */
+  .header {
+    padding: 30px 40px;
+    background-color: black;
+  }
+
+  /* Page content */
+  .content {
+    padding: 16px;
+  }
+
+  /* The sticky class is added to the header with JS when it reaches its scroll position */
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
+
+  /* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+  .sticky + .content {
+    padding-top: 102px;
+  }
+  #header{
+
+
+    text-align: center;
+   font-family: 'Kaushan Script', cursive;
+    border-color: white;
+    color: white;
+    font-size: 10px
+    position:center;
+    padding-left:150px
+    
+    
+  }
+  .responsive-video{
+
+
+   max-width: 80%;
+
+ 
+
+  }
+  #Goku-video{
+
+
+    padding-left:20%;
+  }
+  
+  #dbs-logo
+  {
+
+    max-width:5%;
+    max-height: 5%; 
+
+  }
+ .carousel-item{
+
+
+  max-height: 300px;
+ }
+ #dbs-logo-mobile img{
+
+    
+    max-height:45em;
+    
+
+
+ }
+
+
+ .dbs-logo-mobile
+ {
+
+
+ padding-bottom: 500px;
+padding-left: 800px;
+ }
+ #slogan{
+
+padding-left:100px;
+
+ }
+
+
+ #Videos{
+ 
+
+ 
+
+ 
+  background-image: url(https://vignette.wikia.nocookie.net/dragonball/images/7/71/Goku_super_saiyan_blue_full_power-episode_124.png/revision/latest/scale-to-width-down/420?cb=20180105160303);
+ 
+ 
+ 
+  background-repeat: no-repeat;
+ 
+  background-position:  bottom-left;
+ 
+  
+ 
+
+ 
+
+ 
+ }
+ #awebo {
+
+
+ color:red;
+ font-size: 60px;
+
+
+
+
+ }
+ .text-color-red{
+
+
+  color:red;
+ }
+ 
